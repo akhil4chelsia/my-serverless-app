@@ -1,0 +1,36 @@
+{
+    "TagSet": [
+        {
+            "Key": "environment",
+            "Value": "prod"
+        },
+        {
+            "Key": "service-team",
+            "Value": "myteam"
+        },
+        {
+            "Key": "created-by",
+            "Value": "akhil"
+        },
+        {
+            "Key": "service-component",
+            "Value": "my-serverless-app"
+        },
+        {
+            "Key": "name",
+            "Value": "prod-my-serverless-app"
+        },
+        {
+            "Key": "tagging-version",
+            "Value": "0.2"
+        },
+        {
+            "Key": "ttl",
+            "Value": "-1"
+        },
+        {
+            "Key": "srn",
+            "Value": "unknown"
+        }
+    ]
+}
